@@ -1,2 +1,2 @@
 # Pacmen-repo
-A public repo for macmen
+A public repo for Pacmen
